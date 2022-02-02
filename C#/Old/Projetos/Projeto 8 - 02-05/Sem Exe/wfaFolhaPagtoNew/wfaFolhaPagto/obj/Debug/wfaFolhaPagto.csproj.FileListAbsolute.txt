@@ -1,0 +1,27 @@
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\bin\Debug\wfaFolhaPagto.exe.config
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\bin\Debug\wfaFolhaPagto.exe
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\bin\Debug\wfaFolhaPagto.pdb
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.csprojResolveAssemblyReference.cache
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.Form1.resources
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.Properties.Resources.resources
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.csproj.GenerateResource.Cache
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.exe
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.pdb
+D:\Falkiner\Documentos\Visual Studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\bin\Debug\wfaFolhaPagto.exe.config
+D:\Falkiner\Documentos\Visual Studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.exe
+D:\Falkiner\Documentos\Visual Studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.pdb
+D:\Falkiner\Documentos\Visual Studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\bin\Debug\wfaFolhaPagto.exe
+D:\Falkiner\Documentos\Visual Studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\bin\Debug\wfaFolhaPagto.pdb
+D:\Falkiner\Documentos\Visual Studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.csprojResolveAssemblyReference.cache
+D:\Falkiner\Documentos\Visual Studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.Form1.resources
+D:\Falkiner\Documentos\Visual Studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.Properties.Resources.resources
+D:\Falkiner\Documentos\Visual Studio 2013\Projects\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.csproj.GenerateResource.Cache
+D:\FATEC\C#\Projetos\Projeto 8 - 02-05\wfaFolhaPagtoNew\wfaFolhaPagto\bin\Debug\wfaFolhaPagto.exe.config
+D:\FATEC\C#\Projetos\Projeto 8 - 02-05\wfaFolhaPagtoNew\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.exe
+D:\FATEC\C#\Projetos\Projeto 8 - 02-05\wfaFolhaPagtoNew\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.pdb
+D:\FATEC\C#\Projetos\Projeto 8 - 02-05\wfaFolhaPagtoNew\wfaFolhaPagto\bin\Debug\wfaFolhaPagto.exe
+D:\FATEC\C#\Projetos\Projeto 8 - 02-05\wfaFolhaPagtoNew\wfaFolhaPagto\bin\Debug\wfaFolhaPagto.pdb
+D:\FATEC\C#\Projetos\Projeto 8 - 02-05\wfaFolhaPagtoNew\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.csprojResolveAssemblyReference.cache
+D:\FATEC\C#\Projetos\Projeto 8 - 02-05\wfaFolhaPagtoNew\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.Form1.resources
+D:\FATEC\C#\Projetos\Projeto 8 - 02-05\wfaFolhaPagtoNew\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.Properties.Resources.resources
+D:\FATEC\C#\Projetos\Projeto 8 - 02-05\wfaFolhaPagtoNew\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.csproj.GenerateResource.Cache

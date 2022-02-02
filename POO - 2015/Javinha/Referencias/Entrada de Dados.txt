@@ -1,0 +1,15 @@
+########
+ENTRADA DE DADOS
+########
+
+
+Classe -> Scanner
+
+Objeto -> Input
+
+int x = input.nextInt();       \
+float y = input.nextFloat();    > Numericos
+double z = input.nextDouble(); / 
+
+String s = input.nextLine(); 
+       |_____> Objeto

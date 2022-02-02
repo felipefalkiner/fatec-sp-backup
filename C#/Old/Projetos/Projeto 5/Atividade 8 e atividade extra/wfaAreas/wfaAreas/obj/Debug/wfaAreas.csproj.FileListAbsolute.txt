@@ -1,0 +1,26 @@
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaAreas\wfaAreas\bin\Debug\wfaAreas.exe.config
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaAreas\wfaAreas\obj\Debug\wfaAreas.Form1.resources
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaAreas\wfaAreas\obj\Debug\wfaAreas.Properties.Resources.resources
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaAreas\wfaAreas\obj\Debug\wfaAreas.csproj.GenerateResource.Cache
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaAreas\wfaAreas\bin\Debug\wfaAreas.exe
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaAreas\wfaAreas\bin\Debug\wfaAreas.pdb
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaAreas\wfaAreas\obj\Debug\wfaAreas.exe
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaAreas\wfaAreas\obj\Debug\wfaAreas.pdb
+D:\FATEC\C#\wfaAreas\wfaAreas\bin\Debug\wfaAreas.exe.config
+D:\FATEC\C#\wfaAreas\wfaAreas\obj\Debug\wfaAreas.exe
+D:\FATEC\C#\wfaAreas\wfaAreas\obj\Debug\wfaAreas.pdb
+D:\FATEC\C#\wfaAreas\wfaAreas\bin\Debug\wfaAreas.exe
+D:\FATEC\C#\wfaAreas\wfaAreas\bin\Debug\wfaAreas.pdb
+D:\FATEC\C#\wfaAreas\wfaAreas\obj\Debug\wfaAreas.csprojResolveAssemblyReference.cache
+D:\FATEC\C#\wfaAreas\wfaAreas\obj\Debug\wfaAreas.Form1.resources
+D:\FATEC\C#\wfaAreas\wfaAreas\obj\Debug\wfaAreas.Properties.Resources.resources
+D:\FATEC\C#\wfaAreas\wfaAreas\obj\Debug\wfaAreas.csproj.GenerateResource.Cache
+D:\FATEC\C#\Projeto 5\Atividade 8 e atividade extra\wfaAreas\wfaAreas\bin\Debug\wfaAreas.exe.config
+D:\FATEC\C#\Projeto 5\Atividade 8 e atividade extra\wfaAreas\wfaAreas\obj\Debug\wfaAreas.pdb
+D:\FATEC\C#\Projeto 5\Atividade 8 e atividade extra\wfaAreas\wfaAreas\bin\Debug\wfaAreas.exe
+D:\FATEC\C#\Projeto 5\Atividade 8 e atividade extra\wfaAreas\wfaAreas\bin\Debug\wfaAreas.pdb
+D:\FATEC\C#\Projeto 5\Atividade 8 e atividade extra\wfaAreas\wfaAreas\obj\Debug\wfaAreas.csprojResolveAssemblyReference.cache
+D:\FATEC\C#\Projeto 5\Atividade 8 e atividade extra\wfaAreas\wfaAreas\obj\Debug\wfaAreas.Form1.resources
+D:\FATEC\C#\Projeto 5\Atividade 8 e atividade extra\wfaAreas\wfaAreas\obj\Debug\wfaAreas.Properties.Resources.resources
+D:\FATEC\C#\Projeto 5\Atividade 8 e atividade extra\wfaAreas\wfaAreas\obj\Debug\wfaAreas.csproj.GenerateResource.Cache
+D:\FATEC\C#\Projeto 5\Atividade 8 e atividade extra\wfaAreas\wfaAreas\obj\Debug\wfaAreas.exe

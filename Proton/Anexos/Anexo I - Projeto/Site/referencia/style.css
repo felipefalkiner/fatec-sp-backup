@@ -1,0 +1,17 @@
+#content{
+width:700px;
+margin-left:auto;
+margin-right:auto;
+
+}
+
+body {
+	background-image: url("bg.jpg");
+	color:#FFF;
+}
+
+input{
+-webkit-border-radius: 50px;
+-moz-border-radius: 50px;
+border-radius: 50px;
+}

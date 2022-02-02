@@ -1,0 +1,4 @@
+1) uma empresa determinou um reajuste salarial de 5% a odos seus funcionarios. Além disto, concedeu um abono de R$100,00, para aqueles que recebem até 750 reais. Dado o valor do salário de um funcionario, informar ara quanto ele será reajustado.
+
+2) elaborar um programa que leia a parte numerica da placa de um veículo, indetifique e exiba o dia do rodizio.
+

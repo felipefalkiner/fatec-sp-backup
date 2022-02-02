@@ -1,0 +1,145 @@
+public abstract class Funcionario {
+    protected String nome;
+    protected String email;
+    protected int idade;
+    
+    //construtores
+      public Funcionario(String nome, String mail){
+          this.nome = nome;
+          this.email = mail;
+      }
+    
+      public Funcionario(String nome, String mail, int idade){
+          this.nome = nome;
+          this.email = mail;
+          this.idade = idade;
+     }
+ 
+     //metodos
+      public abstract void exibeDados();
+
+      //getters e setters
+      public String getNome() {
+          return nome;
+      }
+
+      public void setNome(String nome) {
+          this.nome = nome;
+      }
+
+      public String getEmail() {
+          return email;
+      }
+
+      public void setEmail(String email) {
+          this.email = email;
+      }
+
+      public int getIdade() {
+          return idade;
+      }
+ 
+      public void setIdade(int idade) {
+          this.idade = idade;
+      }
+      
+  }
+
+  public class Programador extends Funcionario {
+    
+     private String linguagem;
+     private String sistOper;
+
+     //construtor
+     public Programador(String nome, String mail, String linguagem, String sistOp){
+          super(nome,mail);
+          this.linguagem = linguagem;
+          this.sistOper = sistOp;
+     }
+    
+      @Override
+      public void exibeDados() {
+         System.out.println("Nome: " + this.nome); 
+         System.out.println("Email: " + this.email); 
+         System.out.println("Linguagem: " + this.linguagem); 
+         System.out.println("SO: " + this.sistOper); 
+      }
+
+      //getters e setters
+      public String getLinguagem() {
+          return linguagem;
+      }
+
+      public void setLinguagem(String linguagem) {
+          this.linguagem = linguagem;
+      }
+
+      public String getSistOper() {
+          return sistOper;
+      }
+
+      public void setSistOper(String sistOper) {
+          this.sistOper = sistOper;
+      }
+    
+  }
+
+  public class Instrutor extends Funcionario{
+    
+     private String disciplina;
+
+     //construtor
+     public Instrutor(String nome, String mail, String disciplina){
+          super(nome,mail);
+          this.disciplina = disciplina;
+     }
+    
+      @Override
+      public void exibeDados() {
+         System.out.println("Nome: " + this.nome); 
+         System.out.println("Email: " + this.email); 
+         System.out.println("Disciplina: " + this.disciplina); 
+      }
+
+      //getters e setters
+      public String getDisciplina() {
+          return disciplina;
+      }
+
+      public void setDisciplina(String disciplina) {
+          this.disciplina = disciplina;
+      }
+  }
+
+  public class TesteHierarquia {
+ 
+      public static void main(String[] args) {
+		
+       	  int opcao;
+	  Scanner input = new Scanner(System.in);
+
+	   	  Funcionario f;
+		  Programador p = new Programador("Alexander", "alexander@dominio.com.br", "Java", "Windows");
+		  Instrutor i = new Instrutor("Angela", "poo.atividades@yahoo.com.br", "Programação Orientada a Objetos");
+		
+		  System.out.println("Funcionários:");
+		  System.out.println("[1] - Programador");
+		  System.out.println("[2] - Instrutor");
+		  System.out.print  ("Escolha a opção:");
+
+	 	  opcao = input.nextInt();
+	 	
+	 	  f = null;
+	 	  switch (opcao){
+	 		case 1: f = p; break;
+	 		case 2: f = i; break;
+	 		default:System.out.println("Opção inválida!");
+	 	  }
+
+	 	  if(f != null)
+                       f.exibeDados();
+                
+	 	  System.exit(0);
+	
+      } 
+  }

@@ -1,0 +1,18 @@
+int fatorial (int N)
+{
+int i, f=1;
+for(i=1;i<=N;i++)
+f*=i;
+return f;
+}
+
+-------------------------------
+
+
+int main ()
+{
+	int valor;
+	pritf("Digite: "); scanf("%d", &valor);
+	printf("O fatorial de %d é %d.", valor, fatorial(valor));
+}
+

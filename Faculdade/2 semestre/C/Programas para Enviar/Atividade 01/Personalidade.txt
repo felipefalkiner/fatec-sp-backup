@@ -1,0 +1,60 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+
+
+int main()
+{
+     int dia, mes, ano, calc1, bkp2, bkp1, bkp3;
+     
+     printf("PROGRAMA PARA DEFINIR PERFIL DA PESSOA\n\n");
+     
+     printf("Favor digite seu dia de nascimento:  ");
+     scanf("%d", &dia);
+     
+     printf("\n\nDigite seu mes de nascimento:");
+     scanf("%d", &mes);     
+     
+     printf("\n\nDigite seu ano de nascimento:");
+     scanf("%d", &ano);
+     
+     dia = dia * 100;
+     dia = dia + mes;
+     calc1 = dia + ano;
+     bkp1 = calc1 / 100;
+     bkp2 = calc1 % 100;
+     bkp3 = bkp1 + bkp2;
+     bkp3 = bkp3 % 5;
+
+
+     if (bkp3==0)
+     {
+          printf("Voce eh Timido!");
+     }
+
+     if (bkp3==1)
+     {
+          printf("Voce eh Sonhador!");
+     }
+
+     if (bkp3==2)
+     {
+          printf("Voce eh Paquerador!");
+     }
+
+     if (bkp3==3)
+     {
+          printf("Voce eh Atraente!");
+     }
+
+     if (bkp3==4)
+     {
+          printf("Voce eh Irresistivel!");
+     }
+	getch();
+	return 0;
+
+
+
+     
+}

@@ -1,0 +1,8 @@
+C:\Users\internet.LABINF\Documents\AndreRoqueMatheus\WFAProgramaFacil\WFAProgramaFacil\bin\Debug\WFAProgramaFacil.exe
+C:\Users\internet.LABINF\Documents\AndreRoqueMatheus\WFAProgramaFacil\WFAProgramaFacil\bin\Debug\WFAProgramaFacil.pdb
+C:\Users\internet.LABINF\Documents\AndreRoqueMatheus\WFAProgramaFacil\WFAProgramaFacil\obj\Debug\WFAProgramaFacil.csprojResolveAssemblyReference.cache
+C:\Users\internet.LABINF\Documents\AndreRoqueMatheus\WFAProgramaFacil\WFAProgramaFacil\obj\Debug\WFAProgramaFacil.Form1.resources
+C:\Users\internet.LABINF\Documents\AndreRoqueMatheus\WFAProgramaFacil\WFAProgramaFacil\obj\Debug\WFAProgramaFacil.Properties.Resources.resources
+C:\Users\internet.LABINF\Documents\AndreRoqueMatheus\WFAProgramaFacil\WFAProgramaFacil\obj\Debug\WFAProgramaFacil.csproj.GenerateResource.Cache
+C:\Users\internet.LABINF\Documents\AndreRoqueMatheus\WFAProgramaFacil\WFAProgramaFacil\obj\Debug\WFAProgramaFacil.exe
+C:\Users\internet.LABINF\Documents\AndreRoqueMatheus\WFAProgramaFacil\WFAProgramaFacil\obj\Debug\WFAProgramaFacil.pdb

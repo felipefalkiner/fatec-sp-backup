@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+#define proxint(n) n++
+
+int main()
+{
+int x, y;
+printf("Digite um numero inteiro: ");
+scanf("%d", &x)
+
+y = proxint(x);
+
+printf("\n\n O proximo valor inteiro é: %d", y);
+}

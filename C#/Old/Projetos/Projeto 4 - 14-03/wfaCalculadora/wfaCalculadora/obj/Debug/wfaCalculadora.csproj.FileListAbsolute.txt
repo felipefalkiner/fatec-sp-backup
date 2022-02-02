@@ -1,0 +1,18 @@
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaCalculadora\wfaCalculadora\bin\Debug\wfaCalculadora.exe.config
+C:\Users\internet.LABINF\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\bin\Debug\wfaCalculadora.exe
+C:\Users\internet.LABINF\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\bin\Debug\wfaCalculadora.pdb
+C:\Users\internet.LABINF\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\internet.LABINF\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.frmCalculadora.resources
+C:\Users\internet.LABINF\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.Properties.Resources.resources
+C:\Users\internet.LABINF\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.csproj.GenerateResource.Cache
+C:\Users\internet.LABINF\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.exe
+C:\Users\internet.LABINF\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.pdb
+D:\FATEC\C#\Projeto 4 - 14-03\wfaCalculadora\wfaCalculadora\bin\Debug\wfaCalculadora.exe.config
+D:\FATEC\C#\Projeto 4 - 14-03\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.exe
+D:\FATEC\C#\Projeto 4 - 14-03\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.pdb
+D:\FATEC\C#\Projeto 4 - 14-03\wfaCalculadora\wfaCalculadora\bin\Debug\wfaCalculadora.exe
+D:\FATEC\C#\Projeto 4 - 14-03\wfaCalculadora\wfaCalculadora\bin\Debug\wfaCalculadora.pdb
+D:\FATEC\C#\Projeto 4 - 14-03\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.csprojResolveAssemblyReference.cache
+D:\FATEC\C#\Projeto 4 - 14-03\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.frmCalculadora.resources
+D:\FATEC\C#\Projeto 4 - 14-03\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.Properties.Resources.resources
+D:\FATEC\C#\Projeto 4 - 14-03\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.csproj.GenerateResource.Cache

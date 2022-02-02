@@ -1,0 +1,60 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+
+int main()
+{
+	float dia[5];
+	float media;
+	int x;
+
+	media = 0;
+	
+	printf("Por favor digite a temperatura de Segunda-feira: ");
+	scanf("%f", &dia[0]);
+
+	printf("\nPor favor digite a temperatura de Terca-feira: ");
+	scanf("%f", &dia[1]);
+
+	printf("\nPor favor digite a temperatura de Quarta-feira: ");
+	scanf("%f", &dia[2]);
+
+	printf("\nPor favor digite a temperatura de Quinta-feira: ");
+	scanf("%f", &dia[3]);
+
+	printf("\nPor favor digite a temperatura de Sexta-feira: ");
+	scanf("%f", &dia[4]);
+
+	media = (dia[0] + dia[1] + dia[2] + dia[3] + dia[4])/5;
+
+	printf("\nTemperatura media da semana: %.2f oC\n", media);
+
+
+	if (media>dia[0])
+	{
+	printf("\nSegunda-feira teve uma temperatura abaixo da media!\n");
+	}
+	
+	if (media>dia[1])
+	{
+	printf("Terca-feira teve uma temperatura abaixo da media!\n");
+	}
+	
+	if (media>dia[2])
+	{
+	printf("Quarta-feira teve uma temperatura abaixo da media!\n");
+	}
+	
+	if (media>dia[3])
+	{
+	printf("Quinta-feira teve uma temperatura abaixo da media!\n");
+	}
+	
+	if (media>dia[4])
+	{
+	printf("Sexta-feira teve uma temperatura abaixo da media!\n");
+	}
+
+	getch();
+	
+}

@@ -1,0 +1,38 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+
+int potencia(float x, int y)
+{
+	int i;
+	float bk;
+	bk = x;
+	for(i=y; i>1; i--)
+	{
+	x = x * bk;
+	}
+	return x;	
+}
+
+int main()
+{
+	float X, r;
+	int N, i;
+
+	printf("\t PROGRAMA PARA CALCULO DE PONTECIA SEM O POW\n\n\n");
+	printf("Digite X (o numero que ira ser elevado):  ");
+	scanf("%f", &X);
+    printf("\n\n");
+	
+	printf("Teu numero escolhido foi: %f \n\n\n", X);
+	printf("Por favor digite N, o numero que vai servir de potencia:  ");
+	scanf("%d", &N);
+	printf("\n\n");
+	
+	r = potencia(X,N);
+
+	system("cls");
+	printf("Resultado: %f", r);
+	printf("\n\nObrigado!");
+	getch();
+}

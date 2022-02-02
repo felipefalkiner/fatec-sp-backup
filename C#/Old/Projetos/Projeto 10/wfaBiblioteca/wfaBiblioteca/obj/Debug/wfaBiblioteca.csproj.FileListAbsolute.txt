@@ -1,0 +1,5 @@
+d:\falkiner\documentos\visual studio 2013\Projects\wfaBiblioteca\wfaBiblioteca\bin\Debug\wfaBiblioteca.exe.config
+d:\falkiner\documentos\visual studio 2013\Projects\wfaBiblioteca\wfaBiblioteca\obj\Debug\wfaBiblioteca.csprojResolveAssemblyReference.cache
+d:\falkiner\documentos\visual studio 2013\Projects\wfaBiblioteca\wfaBiblioteca\obj\Debug\wfaBiblioteca.Form1.resources
+d:\falkiner\documentos\visual studio 2013\Projects\wfaBiblioteca\wfaBiblioteca\obj\Debug\wfaBiblioteca.Properties.Resources.resources
+d:\falkiner\documentos\visual studio 2013\Projects\wfaBiblioteca\wfaBiblioteca\obj\Debug\wfaBiblioteca.csproj.GenerateResource.Cache

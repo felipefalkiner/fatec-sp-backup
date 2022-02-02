@@ -1,0 +1,33 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+
+void fatorial(int n, int *f)
+{
+	int i;
+	
+	i=n;
+	
+	do
+	{
+		if (i!=0){
+			i = i - 1;
+			n= n * i;};
+	
+	}
+	while (i>1);
+	
+	*f = n;
+	
+}
+
+int main()
+{
+	int num, resultado=0;
+	printf("Digite o numero para fatorar: ");
+	scanf("%d", &num);
+	printf("\n\n\n");
+	fatorial(num, &resultado);
+	printf("Resultado = %d.", resultado);
+}
+

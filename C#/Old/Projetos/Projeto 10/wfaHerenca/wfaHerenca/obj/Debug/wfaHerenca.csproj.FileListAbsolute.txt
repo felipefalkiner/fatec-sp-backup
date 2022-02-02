@@ -1,0 +1,9 @@
+d:\falkiner\documentos\visual studio 2013\Projects\wfaHerenca\wfaHerenca\bin\Debug\wfaHerenca.exe.config
+d:\falkiner\documentos\visual studio 2013\Projects\wfaHerenca\wfaHerenca\bin\Debug\wfaHerenca.exe
+d:\falkiner\documentos\visual studio 2013\Projects\wfaHerenca\wfaHerenca\bin\Debug\wfaHerenca.pdb
+d:\falkiner\documentos\visual studio 2013\Projects\wfaHerenca\wfaHerenca\obj\Debug\wfaHerenca.csprojResolveAssemblyReference.cache
+d:\falkiner\documentos\visual studio 2013\Projects\wfaHerenca\wfaHerenca\obj\Debug\wfaHerenca.Form1.resources
+d:\falkiner\documentos\visual studio 2013\Projects\wfaHerenca\wfaHerenca\obj\Debug\wfaHerenca.Properties.Resources.resources
+d:\falkiner\documentos\visual studio 2013\Projects\wfaHerenca\wfaHerenca\obj\Debug\wfaHerenca.csproj.GenerateResource.Cache
+d:\falkiner\documentos\visual studio 2013\Projects\wfaHerenca\wfaHerenca\obj\Debug\wfaHerenca.exe
+d:\falkiner\documentos\visual studio 2013\Projects\wfaHerenca\wfaHerenca\obj\Debug\wfaHerenca.pdb

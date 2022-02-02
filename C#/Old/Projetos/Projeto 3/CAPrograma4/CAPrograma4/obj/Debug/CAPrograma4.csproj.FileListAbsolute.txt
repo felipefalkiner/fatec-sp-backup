@@ -1,0 +1,5 @@
+C:\Users\internet.LABINF\Documents\AndreRoqueMatheus\CAPrograma4\CAPrograma4\obj\Debug\CAPrograma4.csprojResolveAssemblyReference.cache
+C:\Users\internet.LABINF\Documents\AndreRoqueMatheus\CAPrograma4\CAPrograma4\bin\Debug\CAPrograma4.exe
+C:\Users\internet.LABINF\Documents\AndreRoqueMatheus\CAPrograma4\CAPrograma4\bin\Debug\CAPrograma4.pdb
+C:\Users\internet.LABINF\Documents\AndreRoqueMatheus\CAPrograma4\CAPrograma4\obj\Debug\CAPrograma4.exe
+C:\Users\internet.LABINF\Documents\AndreRoqueMatheus\CAPrograma4\CAPrograma4\obj\Debug\CAPrograma4.pdb

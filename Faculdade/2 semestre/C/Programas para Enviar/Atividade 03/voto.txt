@@ -1,0 +1,110 @@
+ 
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+ 
+int main(){
+    int voto;
+    float aecio, luciana, eneas, dilma, marina, branco, nulo = 0;
+    char *vencedor;
+   
+    do
+    {
+        system("cls");
+        printf("Digite o numero de seu candito para votar: ");
+        scanf("%d", &voto);
+ 
+           switch(voto){
+               case 0 :
+                    branco++;
+                    system("cls");
+                    printf("Voto Confirmado! - Voto Branco!");
+                    getch();
+                    break;
+               case 99 :
+                    nulo++;
+                    system("cls");
+                    printf("Voto Confirmado! - Voto Nulo!");
+                    getch();
+                    break;
+               case 13 :
+                    dilma++;
+                    system("cls");
+                    printf("Voto Confirmado! - Dilma Rouseff!");
+                    getch();
+                    break;                  
+               case 40 :
+                    marina++;
+                    system("cls");
+                    printf("Voto Confirmado - Marina Silva!");
+                    getch();
+                    break;
+               case 45 :
+                    aecio++;
+                    system("cls");
+                    printf("Voto Confirmado! - Aecio Neves");
+                    getch();
+                    break;
+               case 50 :
+                    luciana++;
+                    system("cls");
+                    printf("Voto Confirmado! - Luciana Genro");
+                    getch();
+                    break;
+               case 66 :
+                    eneas++;
+                    system("cls");
+                    printf("Voto Confirmado! - Eneas Carneiro");
+                    getch();
+                    break;
+               case -1 :
+                    printf("Votacao encerrada, pressione uma tecla para ver os resultados.");
+                    getch();
+                    break;
+               default:
+                    printf("Candidato inexistente, por favor digite o numero de um candidato valido!");  
+                    getch();
+           }
+    }
+    while(voto != -1);
+   
+    if( dilma > aecio && dilma > marina && dilma > luciana && dilma > eneas )
+    {
+        vencedor = "Dilma Rouseff";  
+    }
+    else if( aecio > dilma && aecio > marina && aecio > luciana && aecio > eneas )
+    {
+        vencedor = "Aecio Neves";
+    }
+    else if( marina > dilma && marina > aecio && marina > luciana && marina > eneas )
+    {
+        vencedor = "Marina Silva";
+    }
+    else if( luciana > dilma && luciana > aecio && luciana > marina && luciana > eneas )
+    {
+        vencedor = "Luciana Genro";
+    }
+    else if( eneas > dilma && eneas > aecio && eneas > marina && eneas > luciana )
+    {
+        vencedor = "Eneas Carneiro";
+    }    
+    else
+    {
+        vencedor = "Sem vencedor.";
+    }
+   
+    system("cls");
+    printf("|------------ RESULTADOS ------------|\n");
+    printf("Brancos:         %0.f votos\n", branco);
+    printf("Nulos:           %0.f votos\n", nulo);
+    printf("Dilma Rouseff:   %0.f votos\n", dilma);
+    printf("Aecio Neves:     %0.f votos\n", aecio);
+    printf("Marina Silva:    %0.f votos\n", marina);
+    printf("Luciana Genro:   %0.f votos\n", luciana);
+    printf("Eneas Carneiro:  %0.f votos\n", eneas);
+    printf("|-------------------------------|\n");
+    printf("| Vencedor: %s       |\n", vencedor);
+    printf("|-------------------------------|\n");
+    getch();
+   
+}

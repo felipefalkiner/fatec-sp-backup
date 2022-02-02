@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <conio.h>
+#include <string.h>
+
+int strlength(char nomezinho[80])
+{
+	return strlen(nomezinho);
+}
+
+int main()
+{
+	char nome[80];
+	int q;
+	
+	printf("Qual e o seu nome?");
+	gets(nome);
+
+	q = strlength(nome);
+	
+	printf("O nome lido e %s que possui %d caracteres", nome, q);
+
+	getch();
+
+}

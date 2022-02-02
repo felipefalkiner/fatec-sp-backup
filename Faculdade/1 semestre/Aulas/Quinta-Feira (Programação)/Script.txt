@@ -1,0 +1,57 @@
+option explicit 
+
+Dim opcoes,varshell,diretorio
+
+diretorio = Left(WScript.ScriptFullName, (Len(WScript.ScriptFullName) - (Len(WScript.ScriptName) + 1)))
+
+opcoes=msgbox("Clique em: "&chr(13)&chr(13)&"Sim para Atualizar o Banco de Dados"&chr(13)&chr(13)&"Não apenas para consultar o Banco de Dados"&chr(13)&chr(13)&"Cancelar para sair do programa",3,"BEM VINDO AO BANCO ALUNOS")
+
+if opcoes=6 then
+	dim varData,frase,fso,wshs,usrProfile,cont,SubPasta
+	Set varshell=wscript.CreateObject("WScript.Shell")
+	Set fso=CreateObject("Scripting.FileSystemObject")
+	Set wshs=WScript.CreateObject("WScript.Shell")
+	
+	varData=year(now)&"-"&month(now)&"-"&day(now)&"-"&hour(now)&"H"&minute(now)&"M"&second(now)&"S"
+	frase="cmd /k CD diretorio&  mkdir  BKP\" & vardata & " & exit"
+	varshell.run frase,1,true
+	cont=0
+	
+	For Each SubPasta In fso.GetFolder(diretorio&"\BKP").Subfolders
+	cont=cont+1
+	Next
+
+	while cont > 5
+		dim antigo,referencia,c,n1,n2
+		c=0
+		For Each SubPasta In fso.GetFolder(diretorio&"\BKP").Subfolders
+		c=c+1
+		if c=1 then	
+			antigo=subpasta.datecreated
+			n1=subpasta.name
+		else
+			referencia=subpasta.datecreated
+			n2=subpasta.name
+			if referencia<antigo then	
+				antigo=referencia
+				n1=n2
+			end if
+		end if	
+		Next
+		fso.DeleteFolder(diretorio&"\BKP\"&n1)
+		cont=cont-1		
+	wend
+	
+	fso.CopyFile diretorio&"\BDAlunos1.accdb" , diretorio&"\BKP\"&vardata&"\"&vardata&"-BKP-BDAlunos1.accdb"
+	msgbox "Backup realizado com sucesso! Providencie o armazenamento seguro da cópia!"&chr(13)&chr(13)&"Backup realizado em : "&diretorio&"\BKP",0,"BACKUP"
+	varshell.run "msaccess.exe """&diretorio&"\BDAlunos1.accdb""",3,true
+	wscript.quit
+else
+	if opcoes=7 then
+		Set varshell=wscript.CreateObject("WScript.Shell")
+		varShell.run "msaccess.exe /ro """&diretorio&"\BDAlunos1.accdb""",3,true
+		wscript.quit
+	else
+		wscript.quit
+	end if	
+end if

@@ -1,0 +1,43 @@
+#################################
+             PROTON
+           VERSÃO BETA
+#################################
+
+******* INSTALAÇÃO DO PRODUTO *******
+
+1 - Instalar o XAMPP (xampp-win32-5.6.28-0-VC11-installer.exe).
+
+2 - Na instalação ter certeza de instalar o apache e o MySQL
+e iniciar ambos os serviços.
+
+3 - Configurar o usuario root MySQL do XAMPP com uma senha.
+
+4 - Criar uma database com o nome proton no MySQL.
+
+5 - Rodar o proton.sql dentro do banco para criação das tabelas.
+
+6 - Copiar os arquivos da pasta Site para a pasta C:\xampp\htdocs.
+
+7 - Apagar o arquivo index.php caso exista na htdocs.
+
+8 - Editar o arquivo conectabanco.php colocando as informações de
+conexão para o banco de dados.
+
+9 - Acessar no navegador http://localhost/.
+
+******* Criação da Interface Mobile *******
+
+1 - Instalar o Android Studio
+(android-studio-bundle-145.3360264-windows.exe).
+
+2 - Extrair o arquivo compactado Proton-AndroidStudio.zip
+e abrir o projeto da pasta Proton-AndroidStudio.
+
+3 - Abrir o arquivo MainActivity.java do projeto para alterar.
+
+4 - Procurar a linha que possui: mWebView.loadUrl
+
+5 - Alterar a URL dessa linha para a URL que direciona ao servidor,
+em alguns casos http://<ip-da-maquina-com-xampp>/
+
+6 - Criar a APK e instalar no dispositivo Android.

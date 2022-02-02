@@ -1,0 +1,46 @@
+#include <stdio.h>
+#include <conio.h>
+
+
+int main()
+{
+   int a[4][2], linha, coluna;
+   int t[4], tg;
+   
+   tg = 0;
+   
+   for (linha=0; linha<4; linha++)
+        for (coluna=0; coluna<2; coluna++)
+        {
+           printf("Digite o valor da linha %d coluna %d:", linha, coluna);
+	       scanf("%d", &a[linha][coluna]);
+        }
+
+		t[0] = a[0][0] + a[0][1];
+		t[1] = a[1][0] + a[1][1];
+		t[2] = a[2][0] + a[2][1];
+		t[3] = a[3][0] + a[3][1];
+		
+	for (linha=0; linha<4; linha++)
+   {
+		printf("\nTotal da linha %d: %d\n", linha, t[linha]);
+   }
+	
+	for (linha=0; linha<4; linha++)
+   {
+		tg = tg + t[linha];
+   }
+	printf("\nTotal Geral: %d\n", tg);
+
+	
+   printf("Matriz (4 LINHAS x 2 COLUNAS):\n");
+
+   
+		for (linha=0; linha<4; linha++)
+   {
+        for (coluna=0; coluna<2; coluna++)
+	        printf("%d\t", a[linha][coluna]);
+	printf("\n");
+   }
+   getch();
+}

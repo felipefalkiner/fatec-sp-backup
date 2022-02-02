@@ -1,0 +1,8 @@
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB-EstoqueExtra\wfaDB-EstoqueExtra\bin\Debug\wfaDB-EstoqueExtra.exe.config
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB-EstoqueExtra\wfaDB-EstoqueExtra\bin\Debug\wfaDB-EstoqueExtra.exe
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB-EstoqueExtra\wfaDB-EstoqueExtra\bin\Debug\wfaDB-EstoqueExtra.pdb
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB-EstoqueExtra\wfaDB-EstoqueExtra\obj\Debug\wfaDB_EstoqueExtra.Form1.resources
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB-EstoqueExtra\wfaDB-EstoqueExtra\obj\Debug\wfaDB_EstoqueExtra.Properties.Resources.resources
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB-EstoqueExtra\wfaDB-EstoqueExtra\obj\Debug\wfaDB-EstoqueExtra.csproj.GenerateResource.Cache
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB-EstoqueExtra\wfaDB-EstoqueExtra\obj\Debug\wfaDB-EstoqueExtra.exe
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB-EstoqueExtra\wfaDB-EstoqueExtra\obj\Debug\wfaDB-EstoqueExtra.pdb

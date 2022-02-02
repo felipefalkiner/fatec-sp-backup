@@ -1,0 +1,9 @@
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCirculo\wfaCirculo\bin\Debug\wfaCirculo.exe.config
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCirculo\wfaCirculo\bin\Debug\wfaCirculo.exe
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCirculo\wfaCirculo\bin\Debug\wfaCirculo.pdb
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCirculo\wfaCirculo\obj\Debug\wfaCirculo.csprojResolveAssemblyReference.cache
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCirculo\wfaCirculo\obj\Debug\wfaCirculo.Form1.resources
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCirculo\wfaCirculo\obj\Debug\wfaCirculo.Properties.Resources.resources
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCirculo\wfaCirculo\obj\Debug\wfaCirculo.csproj.GenerateResource.Cache
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCirculo\wfaCirculo\obj\Debug\wfaCirculo.exe
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCirculo\wfaCirculo\obj\Debug\wfaCirculo.pdb

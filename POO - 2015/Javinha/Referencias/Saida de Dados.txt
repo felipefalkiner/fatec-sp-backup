@@ -1,0 +1,10 @@
+########
+SAIDA DE DADOS
+########
+
+
+System.out.print()
+System.out.println()
+System.out.printf() ["Padrão C" formatação %]
+
+

@@ -1,0 +1,23 @@
+int main()
+{
+     float p1, p2, media;
+     
+     printf("PROGRAMA DE CALCULO DA MEDIA (P1 e P2)\n\n");
+     
+     printf("Digite a nota da P1:\n");
+     scanf("%f", &p1);
+     
+     printf("\n\nDigite a nota da P2:\n");
+     scanf("%f", &p2);
+     
+     media = (p1 + p2) / 2;
+
+     printf("\n\nSua media eh %4.2f", media);
+     getch();
+     printf("\n\n\n\nOBRIGADO POR USAR O PROGRAMINHA, A VIDA EH LOKA, MAS NOIS EH MAIS!");
+     printf("\n\n\n\nOBRIGADO POR USAR O PROGRAMINHA, A VIDA EH LOKA, MAS NOIS EH MAIS!");
+     printf("\n\n\n\nOBRIGADO POR USAR O PROGRAMINHA, A VIDA EH LOKA, MAS NOIS EH MAIS!");
+     getch();
+     return 0;
+     
+}

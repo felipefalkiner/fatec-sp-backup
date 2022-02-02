@@ -1,0 +1,12 @@
+c:\users\esl brazil\documents\visual studio 2013\Projects\Investimentos\Investimentos\bin\Debug\Investimentos.exe.config
+c:\users\esl brazil\documents\visual studio 2013\Projects\Investimentos\Investimentos\bin\Debug\Investimentos.exe
+c:\users\esl brazil\documents\visual studio 2013\Projects\Investimentos\Investimentos\bin\Debug\Investimentos.pdb
+c:\users\esl brazil\documents\visual studio 2013\Projects\Investimentos\Investimentos\obj\Debug\Investimentos.csprojResolveAssemblyReference.cache
+c:\users\esl brazil\documents\visual studio 2013\Projects\Investimentos\Investimentos\obj\Debug\Investimentos.Form1.resources
+c:\users\esl brazil\documents\visual studio 2013\Projects\Investimentos\Investimentos\obj\Debug\Investimentos.Properties.Resources.resources
+c:\users\esl brazil\documents\visual studio 2013\Projects\Investimentos\Investimentos\obj\Debug\Investimentos.csproj.GenerateResource.Cache
+c:\users\esl brazil\documents\visual studio 2013\Projects\Investimentos\Investimentos\obj\Debug\Investimentos.exe
+c:\users\esl brazil\documents\visual studio 2013\Projects\Investimentos\Investimentos\obj\Debug\Investimentos.pdb
+C:\Users\ESL BRAZIL\Documents\C#\Aulas\Lista 2\Exercicio1\Investimentos\Investimentos\bin\Debug\Investimentos.exe.config
+C:\Users\ESL BRAZIL\Documents\C#\Aulas\Lista 2\Exercicio1\Investimentos\Investimentos\obj\Debug\Investimentos.exe
+C:\Users\ESL BRAZIL\Documents\C#\Aulas\Lista 2\Exercicio1\Investimentos\Investimentos\obj\Debug\Investimentos.pdb

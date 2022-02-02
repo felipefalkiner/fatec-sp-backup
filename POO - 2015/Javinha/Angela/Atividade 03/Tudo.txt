@@ -1,0 +1,231 @@
+Elaborar os métodos sobrecarregados para calcular a área de um quadrado e de um retângulo usando o conceito de sobrecarga. Crie os métodos sobrecarregados e faça chamadas dos mesmos.
+
+
+
+Classe Area.java
+
+
+public class Area {
+    
+
+    public Area(float l, float a){
+
+        this.lado = l;
+
+        this.altura = a;
+
+    }
+
+    
+
+    private float lado;
+
+    private float altura;
+
+
+    public float getLado() {
+
+        return lado;
+
+    }
+
+
+    public void setLado(float lado) {
+
+        this.lado = lado;
+
+    }
+
+
+    public float getAltura() {
+
+        return altura;
+
+    }
+
+
+    public void setAltura(float altura) {
+
+        this.altura = altura;
+
+    }
+
+    
+
+    public double calculaArea(){
+
+        return Math.pow(getLado(), 2);
+
+    }
+
+    
+
+    public double calculaArea(float lado, float altura){
+
+        return lado*altura;
+
+    }
+
+}
+
+
+Main TesteArea.java
+
+import java.util.Scanner;
+
+public class AreaTeste {
+
+
+    public static void main(String[] args) {
+
+        Area area = new Area(0,0);
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.printf("Você deseja calcular: \n1-Area do quadrado \n2-Area do retangulo\n");
+
+        int escolha = sc.nextInt();
+
+        
+
+        while(escolha != 1 && escolha != 2){
+
+            System.out.println("Valor inválido, digite 1 ou 2");
+
+            escolha = sc.nextInt();
+
+        }
+
+        
+
+        if(escolha == 1){
+
+            System.out.println("Digite o lado do quadrado em cm");
+
+            area.setLado(sc.nextInt());
+
+            System.out.println("Área calculada: " + area.calculaArea());
+
+        }else{
+
+            System.out.println("Digite o lado do retangulo em cm");
+
+            area.setLado(sc.nextInt());
+
+            System.out.println("Digite a altura do retangulo em cm");
+
+            area.setAltura(sc.nextInt());
+
+            System.out.println("Área calculada: " + area.calculaArea(area.getLado(), area.getAltura()));
+
+        }
+
+        
+
+    }
+
+    
+
+}
+
+
+
+2)      Elaborar um programa com uso de vetores que leia as temperaturas médias de um período de 7 dias. Exiba a quantidade de dias com temperatura acima da média.
+
+
+import java.util.Scanner;
+
+public class Temperatura {
+
+
+    public static void main(String[] args) {
+
+       float temperatura[] = new float[7];
+
+       float soma=0, media;
+
+       boolean x = false;
+
+       Scanner sc = new Scanner(System.in);
+
+       for(int i=0; i<7;i++){
+
+           System.out.printf("Digite a temperatura do dia %d: ", i+1);
+
+           temperatura[i] = sc.nextFloat();
+
+           soma+=temperatura[i];
+
+       }
+
+       
+
+       media = soma/7;
+
+       
+
+       System.out.println("Temperaturas acima da média de : " + media + " graus");
+
+       for(int i=0; i<7;i++){
+
+           if(temperatura[i] > media){
+
+               System.out.println("Dia " + i+1 + ": Temperatura - " + temperatura[i] + " graus ");
+
+               x = true;
+
+           }
+
+       }
+
+       
+
+       if(!x)
+
+            System.out.println("Não houve temperaturas acima da média!");
+
+    }
+
+    
+
+}
+
+
+3)      Elaborar um programa que declare um array bidimensional que simule uma prateleira com 3 fileiras e 5 compartimentos cada. O programa deve solicitar a leitura do estoque de produtos de cada compartimento. Pede-se exibir a quantidade de produtos na prateleira.
+
+
+import java.util.Scanner;
+
+public class Prateleira {
+
+
+    public static void main(String[] args) {
+
+        int prateleira[][] = new int[3][5];
+
+        int soma = 0, ascii = 65;
+
+        Scanner sc = new Scanner(System.in);
+
+        for(int i=0;i<3;i++){
+
+            ascii = 65;
+
+            for(int j=0;j<5;j++){
+
+                System.out.println("Digite a quantidade de produtos que estão no compartimento " + (i+1) + (char)ascii); 
+
+                soma+=sc.nextInt();
+
+                ascii++;
+
+            }
+
+        }
+
+        
+
+        System.out.println("Quantidade de livros na prateleira: " + soma);
+
+    }
+

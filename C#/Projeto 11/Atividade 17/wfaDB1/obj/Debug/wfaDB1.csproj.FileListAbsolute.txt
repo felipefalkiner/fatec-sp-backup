@@ -1,0 +1,9 @@
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB1\wfaDB1\bin\Debug\wfaDB1.exe.config
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB1\wfaDB1\bin\Debug\wfaDB1.exe
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB1\wfaDB1\bin\Debug\wfaDB1.pdb
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB1\wfaDB1\obj\Debug\wfaDB1.csprojResolveAssemblyReference.cache
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB1\wfaDB1\obj\Debug\wfaDB1.Form1.resources
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB1\wfaDB1\obj\Debug\wfaDB1.Properties.Resources.resources
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB1\wfaDB1\obj\Debug\wfaDB1.csproj.GenerateResource.Cache
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB1\wfaDB1\obj\Debug\wfaDB1.exe
+d:\falkiner\documentos\visual studio 2013\Projects\wfaDB1\wfaDB1\obj\Debug\wfaDB1.pdb

@@ -1,0 +1,45 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+
+int main()
+{
+	
+	int placa, calc;
+	
+	printf("\tPROGRAMA PARA SABER O RODIZIO DE SEU CARRO!\n\n\n\n");
+	
+	printf("Por favor, digite a parte numerica de sua placa. Ex.: 5236!");
+	printf("\n\nParte numerica: ");
+	scanf("%d", &placa);
+	
+	calc = placa % 10;
+	
+	printf("Teste de placa: %d\n\n\n\n", calc);
+	
+	     if (calc==1	|| calc==2)
+     {
+          printf("Seu rodizio eh de Segunda-feira");
+     }
+	else
+	     if (calc == 3|| calc==4)
+     {
+          printf("Seu rodizio eh de Terca-feira");
+     }
+	else
+	     if (calc == 5 || calc==6)
+     {
+          printf("Seu rodizio eh de Quarta-feira");
+     }
+	else
+	     if (calc == 7 || calc==8)
+     {
+          printf("Seu rodizio eh de Quinta-feira");
+     }
+	else
+     {
+          printf("Seu rodizio eh de Sexta-feira");
+     }
+
+	getch();
+}

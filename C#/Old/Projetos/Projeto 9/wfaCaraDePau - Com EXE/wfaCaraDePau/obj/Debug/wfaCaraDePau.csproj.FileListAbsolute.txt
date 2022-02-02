@@ -1,0 +1,9 @@
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCaraDePau\wfaCaraDePau\bin\Debug\wfaCaraDePau.exe.config
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCaraDePau\wfaCaraDePau\bin\Debug\wfaCaraDePau.exe
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCaraDePau\wfaCaraDePau\bin\Debug\wfaCaraDePau.pdb
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCaraDePau\wfaCaraDePau\obj\Debug\wfaCaraDePau.csprojResolveAssemblyReference.cache
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCaraDePau\wfaCaraDePau\obj\Debug\wfaCaraDePau.Form1.resources
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCaraDePau\wfaCaraDePau\obj\Debug\wfaCaraDePau.Properties.Resources.resources
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCaraDePau\wfaCaraDePau\obj\Debug\wfaCaraDePau.csproj.GenerateResource.Cache
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCaraDePau\wfaCaraDePau\obj\Debug\wfaCaraDePau.exe
+d:\falkiner\documentos\visual studio 2013\Projects\wfaCaraDePau\wfaCaraDePau\obj\Debug\wfaCaraDePau.pdb

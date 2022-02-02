@@ -1,0 +1,9 @@
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaDebug\wfaDebug\bin\Debug\wfaDebug.exe.config
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaDebug\wfaDebug\bin\Debug\wfaDebug.exe
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaDebug\wfaDebug\bin\Debug\wfaDebug.pdb
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaDebug\wfaDebug\obj\Debug\wfaDebug.csprojResolveAssemblyReference.cache
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaDebug\wfaDebug\obj\Debug\wfaDebug.Form1.resources
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaDebug\wfaDebug\obj\Debug\wfaDebug.Properties.Resources.resources
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaDebug\wfaDebug\obj\Debug\wfaDebug.csproj.GenerateResource.Cache
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaDebug\wfaDebug\obj\Debug\wfaDebug.exe
+c:\users\internet.labinf\documents\visual studio 2013\Projects\wfaDebug\wfaDebug\obj\Debug\wfaDebug.pdb

@@ -1,0 +1,108 @@
+Sub Macro1()
+'
+' Macro1 Macro
+'
+'
+    Selection.TypeText Text:="Felipe Falkiner"
+    Selection.MoveUp Unit:=wdLine, Count:=1, Extend:=wdExtend
+    Selection.Font.Size = 16
+    Selection.Font.UnderlineColor = wdColorAutomatic
+    Selection.Font.Underline = wdUnderlineSingle
+    Selection.Font.Color = wdColorRed
+    
+' Manual
+    
+    Selection.MoveRight
+    Selection.Font.Color = wdColorBlack
+    Selection.TypeParagraph
+    Selection.TypeParagraph
+    Selection.Font.Size = 20
+    Selection.Font.Bold = wdToggle
+    Selection.Font.Italic = wdToggle
+    Selection.TypeText Text:="Felipe Magosso Poveda"
+    Selection.Font.Bold = wdToggle
+    Selection.Font.Italic = wdToggle
+    Selection.Font.UnderlineColor = wdColorAutomatic
+    Selection.Font.Underline = wdUnerlineNone
+    Selection.Font.Size = 12
+    Selection.TypeText Text:=" "
+End Sub
+
+Sub Calculadora():
+'
+' Calculadora Macro
+' Chama a Calculadora do Windows
+'
+Shell ("C:\Windows\System32\calc.exe ")
+MsgBox "Por favor faça os cálculos, cópie o resultado para a Área de Transferência e clique em OK", vbOKOnly
+
+
+    Selection.TypeText Text:="O valor calculado pela calculadora é"
+    Selection.PasteAndFormat (wdPasteDefault)
+    
+
+End Sub
+
+Sub TesteInputOutput()
+
+    Dim frase As String
+    
+    frase = InputBox("Digite uma frase para o documento do Word:")
+    
+    MsgBox "A frase digitada foi: " + Chr$(13) + frase, vbExclamation, "A T E N Ç Ã O"
+    
+    Selection.Font.Name = "Times New Roman"
+    Selection.Font.Size = 16
+    Selection.Font.Bold = True
+    Selection.Font.Italic = True
+    Selection.Font.Color = wdColorBlue
+    Selection.TypeText Text:="A frase digitada na InputBox foi: " + frase
+    Selection.TypeParagraph
+    Selection.Font.Color = wdColorBlack
+    Selection.Font.Bold = False
+    Selection.Font.Italic = False
+    Selection.Font.Size = 12
+End Sub
+
+Sub MacroHello()
+'
+' Hello World
+'
+
+formOla.Show
+
+End Sub
+
+Sub Macro2()
+'
+' Macro2 Macro
+'
+'
+End Sub
+Sub cabeçalho()
+'
+' cabeçalho Macro
+'
+'
+    If ActiveWindow.View.SplitSpecial <> wdPaneNone Then
+        ActiveWindow.Panes(2).Close
+    End If
+    If ActiveWindow.ActivePane.View.Type = wdNormalView Or ActiveWindow. _
+        ActivePane.View.Type = wdOutlineView Then
+        ActiveWindow.ActivePane.View.Type = wdPrintView
+    End If
+    
+    Dim cabecalho As String
+    
+    cabecalho = InputBox("Favor entre com o Cabeçalho do Documento", , "Cabeçalho para Documento - Para Aula Prg Micro")
+    
+    
+    ActiveWindow.ActivePane.View.SeekView = wdSeekCurrentPageHeader
+    Selection.WholeStory
+    Selection.TypeText Text:=cabecalho
+    Selection.TypeParagraph
+    Selection.TypeBackspace
+    ActiveWindow.ActivePane.View.SeekView = wdSeekMainDocument
+    
+    
+End Sub

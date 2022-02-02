@@ -1,0 +1,1 @@
+txt_codVend = Val(novocodigo) * 10 + Str(calculaDX(Val(novocodigo)))

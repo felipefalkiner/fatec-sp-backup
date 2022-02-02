@@ -1,0 +1,10 @@
+d:\falkiner\documentos\visual studio 2013\Projects\wfaAtividade18\wfaAtividade18\bin\Debug\wfaAtividade18.exe.config
+d:\falkiner\documentos\visual studio 2013\Projects\wfaAtividade18\wfaAtividade18\bin\Debug\Biblioteca.mdb
+d:\falkiner\documentos\visual studio 2013\Projects\wfaAtividade18\wfaAtividade18\bin\Debug\wfaAtividade18.exe
+d:\falkiner\documentos\visual studio 2013\Projects\wfaAtividade18\wfaAtividade18\bin\Debug\wfaAtividade18.pdb
+d:\falkiner\documentos\visual studio 2013\Projects\wfaAtividade18\wfaAtividade18\obj\Debug\wfaAtividade18.csprojResolveAssemblyReference.cache
+d:\falkiner\documentos\visual studio 2013\Projects\wfaAtividade18\wfaAtividade18\obj\Debug\wfaAtividade18.Form1.resources
+d:\falkiner\documentos\visual studio 2013\Projects\wfaAtividade18\wfaAtividade18\obj\Debug\wfaAtividade18.Properties.Resources.resources
+d:\falkiner\documentos\visual studio 2013\Projects\wfaAtividade18\wfaAtividade18\obj\Debug\wfaAtividade18.csproj.GenerateResource.Cache
+d:\falkiner\documentos\visual studio 2013\Projects\wfaAtividade18\wfaAtividade18\obj\Debug\wfaAtividade18.exe
+d:\falkiner\documentos\visual studio 2013\Projects\wfaAtividade18\wfaAtividade18\obj\Debug\wfaAtividade18.pdb

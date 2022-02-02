@@ -1,0 +1,64 @@
+#include <stdio.h>
+#include <conio.h>
+#include <string.h>
+#include <stdlib.h>
+
+int main()
+{
+	int ind, indb;
+	
+	typedef struct {
+	   int dia;
+	   int mes;
+	   int ano;
+	}DATA;
+
+	typedef struct {
+	   char nome[31];
+	   char fone[21];
+	   DATA nasc;
+	}PESSOA;
+
+	PESSOA agenda[5];
+
+	for (ind=0;ind<5;ind++) {
+	indb = ind + 1;
+	
+	printf("\t INSERINDO CONTATO %d", indb);
+	
+	printf("\nDigite o nome do contato %d: ", indb);
+	gets(agenda[ind].nome);
+
+	printf("\nDigite o telefone do contato %d: ", indb);
+	gets(agenda[ind].fone);
+	
+	
+	printf("\nDigite o dia de nascimento do contato %d: ", indb);
+	scanf("%d", &agenda[ind].nasc.dia);
+	
+	
+	printf("\nDigite o mes de nascimento do contato %d: ", indb);
+	scanf("%d", &agenda[ind].nasc.mes);
+	
+	
+	printf("\nDigite o ano de nascimento do contato %d: ", indb);
+	scanf("%d", &agenda[ind].nasc.ano);
+	
+	printf("\n CONTATO %d REGISTRADO!", indb);
+	getch();
+	
+	system("cls");
+	fflush(stdin);
+	}
+	
+    system("cls");
+	int i;
+
+	for (i=0;i<5;i++)
+	{
+	    printf("\nNome: %s", agenda[i].nome);
+	    printf("\nFone: %s", agenda[i].fone);
+	    printf("\nData de nascimento: %d/%d/%d\n", agenda[i].nasc.dia, agenda[i].nasc.mes, agenda[i].nasc.ano);
+	}
+	getch();
+}

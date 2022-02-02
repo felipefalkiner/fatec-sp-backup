@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <conio.h>
+#include <string.h>
+
+char conc(char s1[80], char s2[80])
+{
+     char space[80]=" ";
+     strcat (s1, space);
+     strcat(s1, s2);
+     printf ("%s", s1);
+	
+}
+
+int main ()
+{
+	char st1[80], st2[80];
+	int oi;
+	
+    printf ("digite s1: ");
+    gets(st1);
+
+    printf ("\n\ndigite s2: ");
+    gets(st2);
+    
+    oi = conc(st1, st2);
+    
+    getch();
+    
+}

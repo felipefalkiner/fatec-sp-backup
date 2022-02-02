@@ -1,0 +1,17 @@
+C:\Users\rafa_\source\repos\WFCaraDePau\WFCaraDePau\bin\Debug\WFCaraDePau.exe
+C:\Users\rafa_\source\repos\WFCaraDePau\WFCaraDePau\bin\Debug\WFCaraDePau.pdb
+C:\Users\rafa_\source\repos\WFCaraDePau\WFCaraDePau\obj\Debug\WFCaraDePau.csprojAssemblyReference.cache
+C:\Users\rafa_\source\repos\WFCaraDePau\WFCaraDePau\obj\Debug\WFCaraDePau.Form1.resources
+C:\Users\rafa_\source\repos\WFCaraDePau\WFCaraDePau\obj\Debug\WFCaraDePau.Properties.Resources.resources
+C:\Users\rafa_\source\repos\WFCaraDePau\WFCaraDePau\obj\Debug\WFCaraDePau.csproj.GenerateResource.cache
+C:\Users\rafa_\source\repos\WFCaraDePau\WFCaraDePau\obj\Debug\WFCaraDePau.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\source\repos\WFCaraDePau\WFCaraDePau\obj\Debug\WFCaraDePau.exe
+C:\Users\rafa_\source\repos\WFCaraDePau\WFCaraDePau\obj\Debug\WFCaraDePau.pdb
+D:\FATEC\C#\Projetos\Projeto 9\EXEMPLO\WFCaraDePau\WFCaraDePau\obj\Debug\WFCaraDePau.exe
+D:\FATEC\C#\Projetos\Projeto 9\EXEMPLO\WFCaraDePau\WFCaraDePau\obj\Debug\WFCaraDePau.pdb
+D:\FATEC\C#\Projetos\Projeto 9\EXEMPLO\WFCaraDePau\WFCaraDePau\bin\Debug\WFCaraDePau.exe
+D:\FATEC\C#\Projetos\Projeto 9\EXEMPLO\WFCaraDePau\WFCaraDePau\bin\Debug\WFCaraDePau.pdb
+D:\FATEC\C#\Projetos\Projeto 9\EXEMPLO\WFCaraDePau\WFCaraDePau\obj\Debug\WFCaraDePau.csprojResolveAssemblyReference.cache
+D:\FATEC\C#\Projetos\Projeto 9\EXEMPLO\WFCaraDePau\WFCaraDePau\obj\Debug\WFCaraDePau.Form1.resources
+D:\FATEC\C#\Projetos\Projeto 9\EXEMPLO\WFCaraDePau\WFCaraDePau\obj\Debug\WFCaraDePau.Properties.Resources.resources
+D:\FATEC\C#\Projetos\Projeto 9\EXEMPLO\WFCaraDePau\WFCaraDePau\obj\Debug\WFCaraDePau.csproj.GenerateResource.Cache

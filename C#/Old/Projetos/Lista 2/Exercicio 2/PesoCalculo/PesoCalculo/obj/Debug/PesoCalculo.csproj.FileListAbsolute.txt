@@ -1,0 +1,12 @@
+c:\users\esl brazil\documents\visual studio 2013\Projects\PesoCalculo\PesoCalculo\bin\Debug\PesoCalculo.exe.config
+c:\users\esl brazil\documents\visual studio 2013\Projects\PesoCalculo\PesoCalculo\obj\Debug\PesoCalculo.csprojResolveAssemblyReference.cache
+c:\users\esl brazil\documents\visual studio 2013\Projects\PesoCalculo\PesoCalculo\obj\Debug\PesoCalculo.Form1.resources
+c:\users\esl brazil\documents\visual studio 2013\Projects\PesoCalculo\PesoCalculo\obj\Debug\PesoCalculo.Properties.Resources.resources
+c:\users\esl brazil\documents\visual studio 2013\Projects\PesoCalculo\PesoCalculo\obj\Debug\PesoCalculo.csproj.GenerateResource.Cache
+c:\users\esl brazil\documents\visual studio 2013\Projects\PesoCalculo\PesoCalculo\bin\Debug\PesoCalculo.exe
+c:\users\esl brazil\documents\visual studio 2013\Projects\PesoCalculo\PesoCalculo\bin\Debug\PesoCalculo.pdb
+c:\users\esl brazil\documents\visual studio 2013\Projects\PesoCalculo\PesoCalculo\obj\Debug\PesoCalculo.exe
+c:\users\esl brazil\documents\visual studio 2013\Projects\PesoCalculo\PesoCalculo\obj\Debug\PesoCalculo.pdb
+D:\FATEC\C#\Projetos\Lista 2\Exercicio 2\PesoCalculo\PesoCalculo\bin\Debug\PesoCalculo.exe.config
+D:\FATEC\C#\Projetos\Lista 2\Exercicio 2\PesoCalculo\PesoCalculo\obj\Debug\PesoCalculo.exe
+D:\FATEC\C#\Projetos\Lista 2\Exercicio 2\PesoCalculo\PesoCalculo\obj\Debug\PesoCalculo.pdb
